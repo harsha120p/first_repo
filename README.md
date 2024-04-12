@@ -1,2 +1,4 @@
 this is my first repository<br>
-welcome 
+welcome <br>
+ cd = change directory
+ 
